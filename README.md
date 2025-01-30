@@ -1,1 +1,5 @@
 # CURE
+# Change Directory
+```
+cd
+```
